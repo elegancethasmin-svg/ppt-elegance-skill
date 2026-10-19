@@ -1,4 +1,0 @@
-interface:
-  display_name: "PPT Elegance"
-  short_description: "Design themed slides with prompts, tools or your own API"
-  default_prompt: "Use $ppt-elegance-skill to create a presentation from my materials and chosen visual style."
