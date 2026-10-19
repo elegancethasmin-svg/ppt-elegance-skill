@@ -1,0 +1,4 @@
+# Optional packaging dependencies. Prompt and API scripts use the standard library.
+Pillow>=10.4,<13
+python-pptx>=1.0.2,<2
+reportlab>=4.2,<5

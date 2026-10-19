@@ -1,0 +1,10 @@
+{
+  "adapter": "images-json",
+  "base_url": "https://api.example.com/v1",
+  "model": "your-image-model",
+  "api_key_env": "PPT_IMAGE_API_KEY",
+  "timeout_seconds": 600,
+  "parameters": {
+    "size": "1536x1024"
+  }
+}
